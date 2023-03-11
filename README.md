@@ -15,7 +15,7 @@ This module only needs requests, that is to update the user agent with the lates
 Import the UserAgent class to your python program.
 
 ```python
-from user_agent import UserAgent
+from user_agent.user_agent import UserAgent
 ```
 
 If you just want a random user agent:
